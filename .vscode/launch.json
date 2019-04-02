@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - KlientHaug",
+            "request": "launch",
+            "mainClass": "no.hvl.dat102.haug.KlientHaug",
+            "projectName": "Oving_6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Oppgave_2_klient",
+            "request": "launch",
+            "mainClass": "no.hvl.dat102.Oppgave_2_klient",
+            "projectName": "Oving_6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - KlientBSTre",
+            "request": "launch",
+            "mainClass": "no.hvl.dat102.bst.KlientBSTre",
+            "projectName": "Oving_6"
+        }
+    ]
+}
