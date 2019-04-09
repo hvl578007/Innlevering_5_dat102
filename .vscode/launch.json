@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Oppg_e",
+            "request": "launch",
+            "mainClass": "no.hvl.dat102.Oppg_e",
+            "projectName": "Oppgave_6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Oppg_d",
+            "request": "launch",
+            "mainClass": "no.hvl.dat102.Oppg_d",
+            "projectName": "Oppgave_6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Oppg_c",
+            "request": "launch",
+            "mainClass": "no.hvl.dat102.Oppg_c",
+            "projectName": "Oppgave_6"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - KlientHaug",
             "request": "launch",
             "mainClass": "no.hvl.dat102.haug.KlientHaug",
